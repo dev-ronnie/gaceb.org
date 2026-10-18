@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Home | GACEB Scholar",
+      "hasCanvas": false,
+      "bodyTextLen": 1541,
+      "bodyTextHash": "7193e4775cd26f23b1ffdee8c8ac428e9cd0b2fea6cbe11c83848d546480cfe8",
+      "bodyTextPrefix": "Skip to content GACEB Scholar Log in Home Courses Library Events",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Home | GACEB Scholar",
+      "hasCanvas": false,
+      "bodyTextLen": 1485,
+      "bodyTextHash": "43cdb34715c89c91c2e7ba0afdc5718b7d372055269010e23433e3bb7329ecbc",
+      "bodyTextPrefix": "Skip to content GACEB Scholar LEARN · GROW · ACHIEVE Your learni",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
